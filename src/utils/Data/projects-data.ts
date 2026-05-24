@@ -5,7 +5,7 @@ export const projectsData = [
     name: "DivineFeminine",
 
     description:
-      "A modern full-stack platform developed for women-focused services and experiences. Built using MERN technologies with responsive UI and scalable architecture. The project achieved Best in Domain recognition for its impact, design and implementation.",
+      "A full-stack platform developed for women-focused services and experiences using MERN technologies. The project achieved Best in Domain recognition for its implementation, design and impact.",
 
     tools: [
       "React",
@@ -38,7 +38,7 @@ export const projectsData = [
     ],
 
     challenges: [
-      "Building full-stack architecture within project constraints.",
+      "Building full-stack architecture.",
 
       "Managing development and feature integration.",
     ],
@@ -50,7 +50,7 @@ export const projectsData = [
     name: "Krishi Ratna",
 
     description:
-      "Agriculture-focused collaborative project developed during hackathon development with focus on farmer assistance, modern web technologies and teamwork.",
+      "Agriculture-focused collaborative hackathon project developed to support farmers using modern web technologies and team development workflow.",
 
     tools: [
       "React",
@@ -63,7 +63,7 @@ export const projectsData = [
 
     role: "Full-stack Developer",
 
-    code: "https://github.com/CarismaticX",
+    code: "",
 
     demo: "https://agro-mitra-frontend.onrender.com",
 
@@ -84,7 +84,7 @@ export const projectsData = [
     challenges: [
       "Team coordination.",
 
-      "Requirement management and integration.",
+      "Requirement management.",
     ],
   },
 
@@ -94,7 +94,7 @@ export const projectsData = [
     name: "Personal Portfolio",
 
     description:
-      "Personal portfolio built with Next.js showcasing projects, skills, journey and achievements with modern UI and animations.",
+      "Personal portfolio built with Next.js to showcase projects, skills, achievements and developer journey with modern UI and animations.",
 
     tools: [
       "Next JS",
@@ -133,21 +133,22 @@ export const projectsData = [
   {
     id: 4,
 
-    name: "CarismaticX",
+    name: "The Blog Project",
 
     description:
-      "Collection of experimental projects, learning implementations and development practice work built during MERN and DSA journey.",
+      "Full-stack MERN blog application built while learning backend development, CRUD operations and authentication concepts.",
 
     tools: [
       "React",
       "Node Js",
+      "Express Js",
       "MongoDB",
-      "Git",
+      "JWT",
     ],
 
-    role: "Developer",
+    role: "Full-stack Developer",
 
-    code: "https://github.com/CarismaticX/CarismaticX",
+    code: "https://github.com/CarismaticX/The-Blog-Project.git",
 
     demo: "",
 
@@ -158,17 +159,17 @@ export const projectsData = [
     videos: [""],
 
     highlights: [
-      "Hands-on project experimentation.",
+      "Implemented CRUD functionality.",
 
-      "Learning focused implementations.",
+      "Worked with MERN architecture.",
 
-      "Version controlled development workflow.",
+      "Applied authentication concepts.",
     ],
 
     challenges: [
-      "Continuous iteration.",
+      "Backend integration.",
 
-      "Feature experimentation.",
+      "Authentication workflow.",
     ],
   },
 ];
