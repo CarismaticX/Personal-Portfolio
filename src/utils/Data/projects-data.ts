@@ -25,7 +25,7 @@ export const projectsData = [
 
     date: "2026",
 
-    images: ["/logo.png"],
+    images: ["/projects/divinefeminine.png"],
 
     videos: [""],
 
@@ -69,7 +69,7 @@ export const projectsData = [
 
     date: "2026",
 
-    images: ["/logo.png"],
+    images: ["/projects/krishiratna.png"],
 
     videos: [""],
 
@@ -111,7 +111,7 @@ export const projectsData = [
 
     date: "2026",
 
-    images: ["/logo.png"],
+    images: ["/projects/portfolio.png"],
 
     videos: [""],
 
@@ -148,7 +148,7 @@ export const projectsData = [
 
     role: "Full-stack Developer",
 
-    code: "https://github.com/CarismaticX/The-Blog-Project.git",
+    code: "",
 
     demo: "",
 

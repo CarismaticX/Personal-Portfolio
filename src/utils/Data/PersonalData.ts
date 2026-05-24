@@ -41,5 +41,5 @@ export const personalData = {
   leetcode:
     "https://leetcode.com/u/CarismaticX/",
 
-  resume: "#",
+  resume: "/resume.pdf",
 };
