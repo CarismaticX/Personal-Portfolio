@@ -14,7 +14,7 @@ import { Link as ScrollLink } from "react-scroll";
 const navItems = [
   { label: "About", to: "about" },
 
-  { label: "Experience", to: "experience" },
+  { label: "Journey", to: "experience" },
 
   { label: "Skills", to: "skills" },
 
