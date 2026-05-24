@@ -109,14 +109,14 @@ const HeroSection = () => {
       <div className="absolute top-20 left-10 w-72 h-72 bg-red-600/10 blur-[120px] rounded-full animate-pulse" />
       <div className="absolute bottom-20 right-10 w-96 h-96 bg-red-900/10 blur-[150px] rounded-full animate-pulse delay-700" />
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center px-4 md:px-8 relative z-10 w-full max-w-7xl mx-auto">
+      <div className="grid grid-cols-1 lg:grid-cols-[1.1fr_0.9fr] gap-12 lg:gap-16 items-center px-4 md:px-8 relative z-10 w-full max-w-7xl mx-auto">
         {/* Left Side: Content */}
         <div className="order-2 lg:order-1 flex flex-col items-start gap-8">
           <div className="flex flex-col gap-4">
             <span className="hero-tag px-4 py-1.5 rounded-full bg-red-500/10 border border-red-500/20 text-red-500 text-xs font-bold tracking-[0.3em] w-fit">
               WELCOME TO MY UNIVERSE
             </span>
-            <h1 className="hero-heading text-5xl md:text-6xl lg:text-7xl font-black text-white leading-[1.1]">
+            <h1 className="hero-heading text-4xl md:text-5xl lg:text-6xl font-black text-white leading-[1.05]">
               Crafting{" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 to-red-800">
                 Digital
@@ -204,7 +204,7 @@ const HeroSection = () => {
             glareEnable={true}
             glareMaxOpacity={0.1}
             scale={1.02}
-            className="w-full max-w-[550px]"
+            className="w-full max-w-[700px]"
           >
             <div
               ref={codeCardRef}
