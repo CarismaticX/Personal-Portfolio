@@ -71,10 +71,7 @@ const Footer = () => (
           max-w-xs
           ">
 
-            MERN developer and DSA learner
-            focused on building modern,
-            scalable and high-performance
-            digital experiences.
+            Full-stack developer and DSA learner focused on building scalable applications, solving problems and creating impactful digital experiences.
 
           </p>
 
@@ -109,9 +106,9 @@ const Footer = () => (
               },
 
               {
-                label:"Experience",
-                to:"experience"
-              },
+                  label: "Journey",
+                 to: "experience",
+                },
 
               {
                 label:"Skills",
@@ -262,24 +259,7 @@ const Footer = () => (
 
             </Link>
 
-            <Link
-              href={personalData.twitter}
-              target="_blank"
-              className="
-              p-2
-              rounded-lg
-              bg-white/5
-              hover:bg-red-500/10
-              hover:text-red-500
-              transition-all
-              border
-              border-white/5
-              "
-            >
-
-              <FaTwitter size={20}/>
-
-            </Link>
+            
 
             <Link
               href={personalData.Instagram}
@@ -344,7 +324,7 @@ const Footer = () => (
         gap-2
         ">
 
-          Made with
+          Built with Next.js & Tailwind CSS
 
           <span className="
           text-red-600
@@ -355,7 +335,7 @@ const Footer = () => (
 
           </span>
 
-          in India
+          
 
         </p>
 
