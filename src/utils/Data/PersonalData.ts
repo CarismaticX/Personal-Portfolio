@@ -16,7 +16,7 @@ export const personalData = {
   description:
   "I'm Shekhar Singh, a B.Tech Electronics & Communication student at Jabalpur Engineering College (2027) and an aspiring software developer. I work with the MERN stack and continuously improve through DSA practice, full-stack projects, and problem solving. My goal is to become a strong software engineer while building scalable applications and real-world products." ,
 
-  email: "0201EC231091@gmail.com",
+  email: "kushwahshekhar.singh44@gmail.com",
 
   phone: "+91 6269499480",
 
