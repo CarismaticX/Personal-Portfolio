@@ -1,10 +1,11 @@
 export const projectsData = [
   {
     id: 1,
+
     name: "DivineFeminine",
 
     description:
-      "A modern full-stack platform developed for women-focused services and experiences. Built with MERN technologies and responsive UI principles. The project achieved Best in Domain recognition for its design, implementation and overall impact.",
+      "A modern full-stack platform developed for women-focused services and experiences. Built using MERN technologies with responsive UI and scalable architecture. The project achieved Best in Domain recognition for its impact, design and implementation.",
 
     tools: [
       "React",
@@ -12,33 +13,34 @@ export const projectsData = [
       "Express Js",
       "MongoDB",
       "Tailwind CSS",
+      "TypeScript",
       "Git",
     ],
 
     role: "Full-stack Developer",
 
-    code: "",
+    code: "https://github.com/CarismaticX/DivineFeminine",
 
-    demo: "",
+    demo: "https://divinefeminine-v9jg.onrender.com/",
 
     date: "2026",
 
-    images: ["/placeholder/placeholder.png"],
+    images: ["/logo.png"],
 
     videos: [""],
 
     highlights: [
       "Achieved Best in Domain recognition.",
 
-      "Developed responsive frontend and backend integration.",
+      "Built responsive frontend with backend integration.",
 
-      "Implemented modern UI and scalable project structure.",
+      "Implemented scalable project structure and modern UI.",
     ],
 
     challenges: [
-      "Building complete project architecture within constraints.",
+      "Building full-stack architecture within project constraints.",
 
-      "Coordinating development and feature implementation.",
+      "Managing development and feature integration.",
     ],
   },
 
@@ -48,7 +50,7 @@ export const projectsData = [
     name: "Krishi Ratna",
 
     description:
-      "Collaborative agriculture-focused project developed for Smart India Hackathon involving modern web technologies and team development workflow.",
+      "Agriculture-focused collaborative project developed during hackathon development with focus on farmer assistance, modern web technologies and teamwork.",
 
     tools: [
       "React",
@@ -56,32 +58,33 @@ export const projectsData = [
       "MongoDB",
       "Express Js",
       "Tailwind CSS",
+      "TypeScript",
     ],
 
     role: "Full-stack Developer",
 
-    code: "",
+    code: "https://github.com/CarismaticX",
 
-    demo: "",
+    demo: "https://agro-mitra-frontend.onrender.com",
 
     date: "2026",
 
-    images: ["/placeholder/placeholder.png"],
+    images: ["/logo.png"],
 
     videos: [""],
 
     highlights: [
-      "Worked in collaborative development environment.",
+      "Hackathon based collaborative development.",
 
-      "Contributed to frontend and project integration.",
+      "Worked on frontend and project integration.",
 
-      "Applied Git workflow and team coordination.",
+      "Applied Git workflow and teamwork.",
     ],
 
     challenges: [
-      "Team coordination and integration.",
+      "Team coordination.",
 
-      "Managing project requirements and deadlines.",
+      "Requirement management and integration.",
     ],
   },
 
@@ -91,7 +94,7 @@ export const projectsData = [
     name: "Personal Portfolio",
 
     description:
-      "Personal developer portfolio showcasing projects, skills, journey and achievements with modern UI and animations.",
+      "Personal portfolio built with Next.js showcasing projects, skills, journey and achievements with modern UI and animations.",
 
     tools: [
       "Next JS",
@@ -102,70 +105,70 @@ export const projectsData = [
 
     role: "Frontend Developer",
 
-    code: "",
+    code: "https://github.com/CarismaticX/Personal-Portfolio",
 
     demo: "",
 
     date: "2026",
 
-    images: ["/placeholder/placeholder.png"],
+    images: ["/logo.png"],
 
     videos: [""],
 
     highlights: [
-      "Modern animated UI.",
+      "Modern animated interface.",
 
       "Responsive design.",
 
-      "Project showcase and developer branding.",
+      "Developer branding and showcase.",
     ],
 
     challenges: [
-      "Building custom UI and animations.",
+      "Custom UI implementation.",
 
-      "Maintaining responsiveness.",
+      "Responsiveness and animations.",
     ],
   },
 
   {
     id: 4,
 
-    name: "MERN Blog Platform",
+    name: "CarismaticX",
 
     description:
-      "Full-stack blog application built while learning MERN stack with authentication and CRUD functionality.",
+      "Collection of experimental projects, learning implementations and development practice work built during MERN and DSA journey.",
 
     tools: [
       "React",
       "Node Js",
-      "Express Js",
       "MongoDB",
+      "Git",
     ],
 
-    role: "Full-stack Developer",
+    role: "Developer",
 
-    code: "",
+    code: "https://github.com/CarismaticX/CarismaticX",
 
     demo: "",
 
     date: "2026",
 
-    images: ["/placeholder/placeholder.png"],
+    images: ["/logo.png"],
 
     videos: [""],
 
     highlights: [
-      "Implemented CRUD operations.",
+      "Hands-on project experimentation.",
 
-      "Worked with MERN architecture.",
+      "Learning focused implementations.",
 
-      "Applied authentication concepts.",
+      "Version controlled development workflow.",
     ],
 
     challenges: [
-      "Backend integration.",
+      "Continuous iteration.",
 
-      "Authentication workflow.",
+      "Feature experimentation.",
     ],
   },
 ];
