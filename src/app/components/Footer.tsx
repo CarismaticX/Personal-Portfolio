@@ -9,7 +9,6 @@ import {
   FaGithub,
   FaInstagram,
   FaLinkedin,
-  FaTwitter,
 } from "react-icons/fa";
 
 import { Link as ScrollLink } from "react-scroll";

@@ -24,11 +24,10 @@ const navItems = [
 ];
 
 const Navbar = () => {
-  const [isMenuOpen, setIsMenuOpen] =
-    useState(false);
+  
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  const [isScrolled, setIsScrolled] =
-    useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
 
   const pathname = usePathname();
 

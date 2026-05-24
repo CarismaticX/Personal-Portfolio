@@ -1,5 +1,4 @@
-import { projectsData } from "@/../utils/Data/projects-data";
-import FeaturedProjects from "@/app/components/projects/_components/FeaturedProjects";
+import { projectsData } from "@/utils/Data/projects-data";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -255,29 +254,9 @@ const ProjectDetails = async ({ params }: Props) => {
           </aside>
         </div>
 
-        {/* Similar Projects */}
-        <div className="mt-32 pt-20 border-t border-white/5">
-          <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 mb-12">
-            <div className="flex flex-col gap-4">
-              <h2 className="text-4xl lg:text-5xl font-black text-white tracking-tighter">
-                Explore More Work
-              </h2>
-              <p className="text-slate-400 text-lg font-medium">
-                Deep dive into other high-performance solutions.
-              </p>
-            </div>
-            <Link
-              href="/#projects"
-              className="text-red-500 font-black uppercase tracking-[0.2em] text-sm hover:text-red-400 transition-colors flex items-center gap-2 group"
-            >
-              View Full Archive{" "}
-              <span className="group-hover:translate-x-1 transition-transform">
-                →
-              </span>
-            </Link>
-          </div>
-          <FeaturedProjects />
-        </div>
+        
+        
+        
       </div>
     </div>
   );

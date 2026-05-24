@@ -63,7 +63,7 @@ export const projectsData = [
 
     role: "Full-stack Developer",
 
-    code: "",
+    code: "https://github.com/CarismaticX/KrishiRatna.git",
 
     demo: "https://agro-mitra-frontend.onrender.com",
 
